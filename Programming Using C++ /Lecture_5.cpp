@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-int main(){
+int main()
+{
 
     int a,b;
     int c,d;
@@ -17,6 +18,7 @@ int main(){
     
     // c++ interprets true as 1
     // c++ interprets false as 0
+
 
     return 0;
 
